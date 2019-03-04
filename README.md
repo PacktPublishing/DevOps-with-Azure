@@ -15,8 +15,7 @@ Azure DevOps is everything you need to build your software product from beginnin
 <LI>Safely balance your traffic loads across several nodes on the cloud/or off the cloud, so that you can provide the best experience to your users, even during sales</LI></UL></DIV>
 
 ## Instructions and Navigation
-### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+### Assumed Knowledge<br/>
 This is an intermediate-level course and is for software developers, engineers, IT experts, or cloud engineers who want to learn how to develop cloud-native cloud applications on Azure. If you are an existing software engineer and want to start a career in cloud solution development and architecture design/development/deployment, then this course is for you!
 ### Technical Requirements
 This course has the following software requirements:<br/>
