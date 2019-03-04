@@ -20,9 +20,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This is an intermediate-level course and is for software developers, engineers, IT experts, or cloud engineers who want to learn how to develop cloud-native cloud applications on Azure. If you are an existing software engineer and want to start a career in cloud solution development and architecture design/development/deployment, then this course is for you!
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Azure account
-Windows, Mac, or Linux
-Docker, Terraform, and Kubernetes
+Azure account<br>
+Windows, Mac, or Linux<br>
+Docker, Terraform, and Kubernetes<br>
 
 ## Related Products
 * [DevOps Fundamentals with Azure [Video]](https://www.packtpub.com/networking-and-servers/devops-fundamentals-azure-video?utm_source=github&utm_medium=repository&utm_campaign=9781789610499)
